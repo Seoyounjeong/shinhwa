@@ -16,7 +16,7 @@
  
 table td {
 position:relative;
-   height: 80px; vertical-align:top;
+   height: 85px; vertical-align:top;
 }
 table{
    border :1px solid gray;
